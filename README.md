@@ -17,3 +17,8 @@ Com base nessas observações, este projeto propõe o desenvolvimento de um sist
 
 ## ℹ️ Observações
 O sistema proposto **não tem como objetivo** a substituição, integração ou qualquer tipo de interação com sistemas hospitalares, profissionais de saúde ou processos de prescrição médica. Trata-se exclusivamente de uma ferramenta de apoio à organização pessoal, destinada ao **controle doméstico do uso de medicamentos**.
+
+---
+
+### 📄 Documentação do Projeto:
+* [Escopo do Projeto](docs/03-escopo.md)
